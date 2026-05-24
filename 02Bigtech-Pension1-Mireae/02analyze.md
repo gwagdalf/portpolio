@@ -179,7 +179,7 @@
 
 ## 7. 벤치마크 대비 성과
 
-- **벤치마크**: Indxx US Tech Top 10 (70%) + MarketVector US Listed Semiconductor 25 (50%)
+- **벤치마크**: Indxx US Tech Top 10 (70%) + MarketVector US Listed Semiconductor 25 (30%)
 - **목표 수익률**: 14%
 - **달성 수익률**: 14.1% (6년 복리)
 
